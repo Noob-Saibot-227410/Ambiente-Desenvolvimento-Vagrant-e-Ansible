@@ -31,11 +31,3 @@ ansible-playbook -i inventories/development playbook.yml</code></pre>
     <pre><code>cd ambiente-prod
 ansible-playbook -i inventories/production playbook.yml</code></pre>
 </ol>
-
-    <h2>Referências</h2>
-    <ul>
-      <li><a href="https://www.vagrantup.com/docs/">Documentação do Vagrant</a></li>
-      <li><a href="https://docs.ansible.com/">Documentação do Ansible</a></li>
-    </ul>
-  </body>
-</html>
