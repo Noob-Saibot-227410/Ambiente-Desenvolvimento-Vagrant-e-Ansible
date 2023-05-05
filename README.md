@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Configuração de ambiente de desenvolvimento com Vagrant e Ansible</title>
   </head>
   <body>
     <h1>Configuração de ambiente de desenvolvimento com Vagrant e Ansible</h1>
